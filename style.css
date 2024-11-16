@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    background-color: white;
+    width: 200px;
+    height: 200px;
+}
+
+.simbolo {
+ justify-content: center;
+ 
+}
+
+.carta1 {
+    flex-direction: row;
+    
+}
